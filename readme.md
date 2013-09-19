@@ -1,1 +1,4 @@
-this is my readme file
+TestRepository
+============================
+
+Trainingroom based on RMS Enterprise
