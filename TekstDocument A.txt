@@ -1,2 +1,3 @@
 TekstDocumentA
 BH   line 1 added 10:36 19-9-2013
+BH   line 2 added 10:43 19-9-2013   let's see if this is noticed by GitHub as NOT being InSynQ
